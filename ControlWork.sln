@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlWork", "ControlWork.csproj", "{15FA28CA-F8D4-48E7-A9F0-F13CB20F834D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15FA28CA-F8D4-48E7-A9F0-F13CB20F834D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15FA28CA-F8D4-48E7-A9F0-F13CB20F834D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15FA28CA-F8D4-48E7-A9F0-F13CB20F834D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15FA28CA-F8D4-48E7-A9F0-F13CB20F834D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B438DC8-899D-4C54-9D25-61CCE469DED9}
+	EndGlobalSection
+EndGlobal

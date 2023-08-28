@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ControlWork\\ControlWork.csproj": {}
+    "c:\\ControlWork\\ControlWork.csproj": {}
   },
   "projects": {
-    "C:\\ControlWork\\ControlWork.csproj": {
+    "c:\\ControlWork\\ControlWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ControlWork\\ControlWork.csproj",
+        "projectUniqueName": "c:\\ControlWork\\ControlWork.csproj",
         "projectName": "ControlWork",
-        "projectPath": "C:\\ControlWork\\ControlWork.csproj",
+        "projectPath": "c:\\ControlWork\\ControlWork.csproj",
         "packagesPath": "C:\\Users\\Ег\\.nuget\\packages\\",
-        "outputPath": "C:\\ControlWork\\obj\\",
+        "outputPath": "c:\\ControlWork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ег\\AppData\\Roaming\\NuGet\\NuGet.Config"
